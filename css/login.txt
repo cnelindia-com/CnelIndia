@@ -1,0 +1,12 @@
+//ready server ftp login detail
+Host: ccr.dsk.mybluehost.me
+User: cnelindia@ccr.dsk.mybluehost.me
+Pass: dyQUY]]Dw_*D
+
+https://readyforyourreview.com/cnelindia
+
+Database access URL:
+http://readyforyourreview.com/dbaccess.php
+DB: 
+DBusername: 
+DBpass:

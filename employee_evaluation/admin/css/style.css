@@ -1,0 +1,45 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.full_wrapper{
+  width: 100%;   
+  height: 100vh;           
+  background-color: #C4D3F5;  
+  padding: 0.5rem 1rem;       
+}
+
+.inner_wrapper{
+  border: 4px solid #6C79E0;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border-radius: 5px;
+}
+
+.heading_text{
+  background-color: #6C79E0;
+}
+
+.first_wrapper{
+  padding-bottom: 10px;
+}
+
+.first_wrapper label{
+  font-weight: 600;
+  padding: 3px;
+}
+
+.submit{
+  color: #fff;
+  background-color: #6C79E0;
+  font-size: 12px;
+}
+
+@media only screen and (max-width:767px){
+
+  .full_wrapper{
+    height: auto;             
+  }
+
+}

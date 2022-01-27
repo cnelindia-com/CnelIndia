@@ -1,0 +1,83 @@
+[14-Apr-2021 23:41:46 America/Boise] PHP Warning:  include_once(fb-config.php): failed to open stream: No such file or directory in /home3/ccrdskmy/public_html/ready/cnelindia2/index.php on line 2
+[14-Apr-2021 23:41:46 America/Boise] PHP Warning:  include_once(): Failed opening 'fb-config.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/ccrdskmy/public_html/ready/cnelindia2/index.php on line 2
+[14-Apr-2021 23:41:46 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function getLoginUrl() on null in /home3/ccrdskmy/public_html/ready/cnelindia2/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/ccrdskmy/public_html/ready/cnelindia2/index.php on line 8
+[14-Apr-2021 23:41:53 America/Boise] PHP Warning:  include_once(fb-config.php): failed to open stream: No such file or directory in /home3/ccrdskmy/public_html/ready/cnelindia2/index.php on line 2
+[14-Apr-2021 23:41:53 America/Boise] PHP Warning:  include_once(): Failed opening 'fb-config.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/ccrdskmy/public_html/ready/cnelindia2/index.php on line 2
+[14-Apr-2021 23:41:53 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function getLoginUrl() on null in /home3/ccrdskmy/public_html/ready/cnelindia2/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/ccrdskmy/public_html/ready/cnelindia2/index.php on line 8
+[15-Apr-2021 04:27:21 America/Boise] PHP Warning:  include_once(fb-config.php): failed to open stream: No such file or directory in /home3/ccrdskmy/public_html/ready/cnelindia2/index.php on line 2
+[15-Apr-2021 04:27:21 America/Boise] PHP Warning:  include_once(): Failed opening 'fb-config.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/ccrdskmy/public_html/ready/cnelindia2/index.php on line 2
+[15-Apr-2021 04:27:21 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function getLoginUrl() on null in /home3/ccrdskmy/public_html/ready/cnelindia2/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/ccrdskmy/public_html/ready/cnelindia2/index.php on line 8
+[15-Apr-2021 04:27:26 America/Boise] PHP Warning:  include_once(fb-config.php): failed to open stream: No such file or directory in /home3/ccrdskmy/public_html/ready/cnelindia2/index.php on line 2
+[15-Apr-2021 04:27:26 America/Boise] PHP Warning:  include_once(): Failed opening 'fb-config.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/ccrdskmy/public_html/ready/cnelindia2/index.php on line 2
+[15-Apr-2021 04:27:26 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function getLoginUrl() on null in /home3/ccrdskmy/public_html/ready/cnelindia2/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/ccrdskmy/public_html/ready/cnelindia2/index.php on line 8
+[15-Apr-2021 04:28:00 America/Boise] PHP Warning:  include_once(fb-config.php): failed to open stream: No such file or directory in /home3/ccrdskmy/public_html/ready/cnelindia2/index.php on line 2
+[15-Apr-2021 04:28:00 America/Boise] PHP Warning:  include_once(): Failed opening 'fb-config.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/ccrdskmy/public_html/ready/cnelindia2/index.php on line 2
+[15-Apr-2021 04:28:00 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function getLoginUrl() on null in /home3/ccrdskmy/public_html/ready/cnelindia2/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/ccrdskmy/public_html/ready/cnelindia2/index.php on line 8
+[15-Apr-2021 04:28:04 America/Boise] PHP Warning:  include_once(fb-config.php): failed to open stream: No such file or directory in /home3/ccrdskmy/public_html/ready/cnelindia2/index.php on line 2
+[15-Apr-2021 04:28:04 America/Boise] PHP Warning:  include_once(): Failed opening 'fb-config.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/ccrdskmy/public_html/ready/cnelindia2/index.php on line 2
+[15-Apr-2021 04:28:04 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function getLoginUrl() on null in /home3/ccrdskmy/public_html/ready/cnelindia2/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/ccrdskmy/public_html/ready/cnelindia2/index.php on line 8
+[15-Apr-2021 04:28:31 America/Boise] PHP Warning:  include_once(fb-config.php): failed to open stream: No such file or directory in /home3/ccrdskmy/public_html/ready/cnelindia2/index.php on line 2
+[15-Apr-2021 04:28:31 America/Boise] PHP Warning:  include_once(): Failed opening 'fb-config.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/ccrdskmy/public_html/ready/cnelindia2/index.php on line 2
+[15-Apr-2021 04:28:31 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function getLoginUrl() on null in /home3/ccrdskmy/public_html/ready/cnelindia2/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/ccrdskmy/public_html/ready/cnelindia2/index.php on line 8
+[15-Apr-2021 04:28:58 America/Boise] PHP Warning:  include_once(fb-config.php): failed to open stream: No such file or directory in /home3/ccrdskmy/public_html/ready/cnelindia2/index.php on line 2
+[15-Apr-2021 04:28:58 America/Boise] PHP Warning:  include_once(): Failed opening 'fb-config.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/ccrdskmy/public_html/ready/cnelindia2/index.php on line 2
+[15-Apr-2021 04:28:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function getLoginUrl() on null in /home3/ccrdskmy/public_html/ready/cnelindia2/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/ccrdskmy/public_html/ready/cnelindia2/index.php on line 8
+[15-Apr-2021 04:30:05 America/Boise] PHP Warning:  include_once(fb-config.php): failed to open stream: No such file or directory in /home3/ccrdskmy/public_html/ready/cnelindia2/index.php on line 2
+[15-Apr-2021 04:30:05 America/Boise] PHP Warning:  include_once(): Failed opening 'fb-config.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/ccrdskmy/public_html/ready/cnelindia2/index.php on line 2
+[15-Apr-2021 04:30:05 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function getLoginUrl() on null in /home3/ccrdskmy/public_html/ready/cnelindia2/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/ccrdskmy/public_html/ready/cnelindia2/index.php on line 8
+[15-Apr-2021 04:31:01 America/Boise] PHP Warning:  include_once(fb-config.php): failed to open stream: No such file or directory in /home3/ccrdskmy/public_html/ready/cnelindia2/index.php on line 2
+[15-Apr-2021 04:31:01 America/Boise] PHP Warning:  include_once(): Failed opening 'fb-config.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/ccrdskmy/public_html/ready/cnelindia2/index.php on line 2
+[15-Apr-2021 04:31:01 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function getLoginUrl() on null in /home3/ccrdskmy/public_html/ready/cnelindia2/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/ccrdskmy/public_html/ready/cnelindia2/index.php on line 8
+[11-Sep-2021 03:42:01 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ccrdskmy_leave'@'localhost' (using password: YES) in /home3/ccrdskmy/public_html/ready/cnelindia/leave_calender.php on line 12
+[11-Sep-2021 03:44:46 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ccrdskmy_leave'@'localhost' (using password: YES) in /home3/ccrdskmy/public_html/ready/cnelindia/leave_calender.php on line 12
+[25-Oct-2021 22:53:15 America/Boise] PHP Warning:  include(../leave_calendar/config.php): failed to open stream: No such file or directory in /home3/ccrdskmy/public_html/ready/cnelindia/employee_evaluation.php on line 2
+[25-Oct-2021 22:53:15 America/Boise] PHP Warning:  include(../leave_calendar/config.php): failed to open stream: No such file or directory in /home3/ccrdskmy/public_html/ready/cnelindia/employee_evaluation.php on line 2
+[25-Oct-2021 22:53:15 America/Boise] PHP Warning:  include(): Failed opening '../leave_calendar/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/ccrdskmy/public_html/ready/cnelindia/employee_evaluation.php on line 2
+[25-Oct-2021 22:53:15 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/ccrdskmy/public_html/ready/cnelindia/employee_evaluation.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/ccrdskmy/public_html/ready/cnelindia/employee_evaluation.php on line 5
+[25-Oct-2021 22:53:20 America/Boise] PHP Warning:  include(../leave_calendar/config.php): failed to open stream: No such file or directory in /home3/ccrdskmy/public_html/ready/cnelindia/employee_evaluation.php on line 2
+[25-Oct-2021 22:53:20 America/Boise] PHP Warning:  include(../leave_calendar/config.php): failed to open stream: No such file or directory in /home3/ccrdskmy/public_html/ready/cnelindia/employee_evaluation.php on line 2
+[25-Oct-2021 22:53:20 America/Boise] PHP Warning:  include(): Failed opening '../leave_calendar/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/ccrdskmy/public_html/ready/cnelindia/employee_evaluation.php on line 2
+[25-Oct-2021 22:53:20 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/ccrdskmy/public_html/ready/cnelindia/employee_evaluation.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/ccrdskmy/public_html/ready/cnelindia/employee_evaluation.php on line 5
+[25-Oct-2021 22:53:38 America/Boise] PHP Warning:  include(../leave_calendar/config.php): failed to open stream: No such file or directory in /home3/ccrdskmy/public_html/ready/cnelindia/employee_evaluation.php on line 2
+[25-Oct-2021 22:53:38 America/Boise] PHP Warning:  include(../leave_calendar/config.php): failed to open stream: No such file or directory in /home3/ccrdskmy/public_html/ready/cnelindia/employee_evaluation.php on line 2
+[25-Oct-2021 22:53:38 America/Boise] PHP Warning:  include(): Failed opening '../leave_calendar/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/ccrdskmy/public_html/ready/cnelindia/employee_evaluation.php on line 2
+[25-Oct-2021 22:53:38 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/ccrdskmy/public_html/ready/cnelindia/employee_evaluation.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/ccrdskmy/public_html/ready/cnelindia/employee_evaluation.php on line 5

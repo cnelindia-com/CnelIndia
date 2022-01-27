@@ -1,0 +1,162 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.full_wrapper{
+  width: 100%;              
+  background-color: #C4D3F5;  
+  padding: 2rem 1rem;       
+}
+
+h3{  
+  color: #000;
+  font-weight: 600;
+  text-shadow: 3px 3px 5px #fff;
+}
+
+.inner_wrapper{
+  border: 4px solid #6C79E0;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border-radius: 5px;
+}
+
+input{
+  max-width: 100%;
+  border: 1px solid #6C79E0;
+  outline: none;
+  padding: 2px 5px;
+  border-radius: 5px;
+}
+
+.heading_text{
+  background-color: #6C79E0;
+}
+
+h4{
+  margin: 0;
+  padding: 0.6rem 0rem;
+  font-size: 20px;
+  font-weight: 600;
+  color: #fff;
+  font-weight: 600;
+  text-shadow: 3px 3px 5px #000;
+}
+
+.first_wrapper{
+  padding-bottom: 10px;
+}
+
+.first_wrapper label{
+  font-weight: 600;
+  margin: 5px;
+}
+
+.secound_heading{
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #6C79E0;
+}
+
+.secound_heading label,
+.secound_heading h5{
+  font-weight: 600;
+}
+
+input[type="checkbox"] {
+  width: 17px;
+  height: 17px;
+  cursor: pointer;
+  margin-top: 5px;
+}
+
+textarea {
+  width: 100%;
+  height: 110px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid #6C79E0;
+}
+
+.thired_wrapper{
+  padding-bottom: 0.5rem;
+}
+
+.thired_wrapper p{
+  font-weight: 600;
+  margin-top: 10px;
+}
+
+.fourth_wrapper .four_box{
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.fourth_wrapper .four_box hr{
+  margin: 1rem 0;
+  border: 1px solid #6C79E0;
+}
+
+.fourth_wrapper .four_box p{
+  font-weight: 600;
+}
+
+.five_no_wrapper textarea{
+  margin: 0.5rem 0;
+}
+
+.six_no_wrapper{
+  padding-bottom: 0.5rem;
+}
+
+.six_no_wrapper p{
+  font-weight: 600;
+  margin-top: 0.5rem;
+}
+
+.six_no_wrapper label{
+  font-weight: 600;
+  margin-bottom: 0.3rem;
+}
+
+.submit{
+  color: #fff;
+  background-color: #6C79E0;
+}
+
+@media only screen and (max-width:767px){
+
+  .first_wrapper .one{
+    margin-bottom: 0.5rem;
+  }
+
+  h4{
+    font-size: 16px;
+  }
+
+  .secound_heading {
+    padding: 1rem 0;
+  }
+
+  .secound_heading label{
+    font-size: 16px;
+    margin-top: 0.5rem;
+  }
+   
+  .secound_heading h5 {
+    font-size: 16px;
+  }
+
+  .secound_heading textarea {
+   margin-top: 1rem;
+  }
+
+  .fourth_wrapper .four_box .one{
+    margin-top: 1.2rem;
+  }
+
+  .six_no_wrapper .one{
+    margin-bottom: 1rem;
+  }
+
+}
