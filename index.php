@@ -1,5 +1,5 @@
 <?php
-
+echo "ss";
 $paypal_account="info@cnelindia.com";
 $frequency = "M";
 $amount = 250;
